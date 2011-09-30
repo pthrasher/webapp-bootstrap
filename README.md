@@ -27,7 +27,7 @@ send me a pull request. I can't garuntee that I'll incorporate it, as
 this is really more geared to my own workflow, and anyone elses, but I
 just may. ;-)
 
-Who and the hell are you, dude?
+Who the hell are you, dude?
 ===============================
 
 I'm Philip Thrasher. You can follow me on twitter, [here](http://twitter.com/philipthrasher).
